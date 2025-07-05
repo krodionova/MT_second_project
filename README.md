@@ -4,3 +4,5 @@
 Спойлер: все переводят плохо, но моя модель чуть лучше :)
 
 Код запускался из колаба, поэтому notebook лучше подгружать туда. Более подробно - в презентации.
+
+Чекпоинты модели: https://drive.google.com/drive/folders/1o7cmHcV1pqQSVh-aYNBOoDh0hE8H2Ovp?usp=sharing 
